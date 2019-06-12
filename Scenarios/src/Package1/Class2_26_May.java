@@ -10,6 +10,7 @@ public class Class2_26_May extends Class1_26_May {
 	public Class2_26_May(int a) {
 		this(24,45,56);
 		System.out.println("This is Child : 1 Parameter Constructor");
+		System.out.println("Hello ! Changes has been done");
 	}
 	
 	public Class2_26_May(int a, int b) {
